@@ -331,7 +331,7 @@ def extract_mhd(image):
 # -----------------------------
 # HEADER
 # -----------------------------
-st.markdown("<h1>🧊 Smart Kühlschrank</h1>", unsafe_allow_html=True)
+st.markdown("<h1> Smart Kühlschrank</h1>", unsafe_allow_html=True)
 st.markdown("<div class='subtitle-banner'>Dein intelligenter Lebensmittel-Assistent ✨</div>", unsafe_allow_html=True)
  
 # -----------------------------

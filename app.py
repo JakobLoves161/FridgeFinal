@@ -21,7 +21,7 @@ supabase = create_client(url, key)
 # CONFIG
 # -----------------------------
 st.set_page_config(
-    page_title="🧊 Smart Kühlschrank",
+    page_title=" Smart Kühlschrank",
     layout="centered",
     initial_sidebar_state="collapsed"
 )
